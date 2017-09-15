@@ -28,5 +28,18 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/cucumber-reporting-0.1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/gherkin-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/cucumber/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Softwares/selenium-2.53.0/selenium-java-2.53.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
